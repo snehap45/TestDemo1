@@ -8,4 +8,9 @@ public class DemoGit {
 		c=a+b;
 		System.out.println("Addition is"+c);
 	}
+	
+	public void write()
+	{
+		System.out.println("Display");
+	}
 }
